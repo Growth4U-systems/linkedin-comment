@@ -1,0 +1,20 @@
+{
+  "name": "linkedin-comment",
+  "description": "Grow your personal brand on LinkedIn by commenting with value: build a focus group of people worth engaging, choose who to comment on each day, and write comments that sound human, not like AI.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Growth4U"
+  },
+  "homepage": "https://github.com/Growth4U-systems/linkedin-comment",
+  "repository": "https://github.com/Growth4U-systems/linkedin-comment",
+  "license": "MIT",
+  "keywords": [
+    "linkedin",
+    "personal-brand",
+    "social-selling",
+    "engagement",
+    "commenting",
+    "growth",
+    "audience"
+  ]
+}
