@@ -2,6 +2,8 @@
 
 A Claude Code skill that helps you grow on LinkedIn the way the network actually rewards: by commenting with value, not by treating your profile as a shop window.
 
+> Built by [Growth4U](https://growth4u.io), an AI-native growth agency for tech startups. More about us [below](#about-growth4u).
+
 ## Why this exists
 
 Most people use LinkedIn as a shop window. They polish their own posts, broadcast, and wait to be seen. That is the slow lane. LinkedIn is a social network, and it rewards participation.
@@ -51,6 +53,27 @@ Then start a session and say something like "help me grow on LinkedIn" or "who s
 
 - **First run:** it builds your focus group. Have your role and company ready, and answer a couple of short questions (region, who you want to reach).
 - **Every run after:** it reads your saved list, tells you who to comment on, and writes the comments. You bring the posts (paste them in), since it does not log into LinkedIn.
+
+## About Growth4U
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/growth4u-logo-white.png">
+  <img alt="Growth4U" src="assets/growth4u-logo.png" width="300">
+</picture>
+
+We built this skill at [**Growth4U**](https://growth4u.io), an AI-native growth agency. We help tech startups grow faster without spending more on marketing: we design the full acquisition, conversion, and retention system, not just ads or content.
+
+A few results from our work (all public on our site):
+- **Bnext**: 0 to 500K users in under 30 months
+- **Bit2Me**: 70% lower CAC and 7x users
+- **Criptan**: +160% deposit volume in 12 months
+
+If you want a growth partner with skin in the game, come say hi:
+- Website: [growth4u.io](https://growth4u.io)
+- LinkedIn: [linkedin.com/company/growth4u](https://www.linkedin.com/company/growth4u/)
+- Instagram: [@growth4u_systems](https://www.instagram.com/growth4u_systems/)
+
+This skill is one of the tools we build in the open. If it helps you grow, a star on the repo is appreciated.
 
 ## License
 
