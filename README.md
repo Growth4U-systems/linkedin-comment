@@ -27,9 +27,22 @@ The list is saved locally so future runs skip the research and go straight to co
 
 ## Install
 
+### Option 1: as a plugin (recommended)
+
+In Claude Code, run:
+
 ```
 /plugin marketplace add Growth4U-systems/linkedin-comment
 /plugin install linkedin-comment@linkedin-comment
+```
+
+(The part before `@` is the plugin, the part after is the marketplace; both are named `linkedin-comment`.) If your session does not pick it up right away, run `/reload-plugins`.
+
+### Option 2: as a plain skill (no plugin system)
+
+```
+git clone https://github.com/Growth4U-systems/linkedin-comment.git
+cp -r linkedin-comment/skills/linkedin-comment ~/.claude/skills/
 ```
 
 Then start a session and say something like "help me grow on LinkedIn" or "who should I comment on today, here are the posts."

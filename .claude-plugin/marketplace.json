@@ -1,0 +1,17 @@
+{
+  "name": "linkedin-comment",
+  "owner": {
+    "name": "Growth4U"
+  },
+  "metadata": {
+    "description": "Grow on LinkedIn by commenting with value. A Claude Code skill."
+  },
+  "plugins": [
+    {
+      "name": "linkedin-comment",
+      "source": ".",
+      "description": "Grow your personal brand on LinkedIn by commenting with value: build a focus group, choose who to comment on, and write comments that sound human, not like AI.",
+      "license": "MIT"
+    }
+  ]
+}
